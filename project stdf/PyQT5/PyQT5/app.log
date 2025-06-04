@@ -1,0 +1,38 @@
+2025-06-03 14:22:00,774 - __main__ - INFO - 正在启动主窗口...
+2025-06-03 14:22:01,111 - __main__ - INFO - 应用程序启动完成
+2025-06-03 14:22:03,168 - App.views.main_window - INFO - 成功连接到服务器，PID: 23512
+2025-06-03 14:22:05,231 - App.views.main_window - INFO - CPU使用率: 5.1%
+2025-06-03 14:22:07,298 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-03 14:22:09,360 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-03 14:22:09,361 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-03 14:22:09,528 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-03 16:54:58,263 - __main__ - INFO - 正在启动主窗口...
+2025-06-03 16:54:58,925 - __main__ - INFO - 应用程序启动完成
+2025-06-03 16:55:01,006 - App.views.main_window - INFO - 成功连接到服务器，PID: 23512
+2025-06-03 16:55:03,068 - App.views.main_window - INFO - CPU使用率: 5.1%
+2025-06-03 16:55:05,122 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-03 16:55:07,160 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-03 16:55:07,161 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-03 16:55:07,392 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 13:08:36,415 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:08:36,777 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:08:40,882 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:08:45,985 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:08:51,117 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 13:08:51,117 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 13:08:51,118 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:08:57,207 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:09:02,310 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:09:07,409 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 13:09:07,411 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 13:09:07,411 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:09:13,514 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:09:18,631 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:09:23,771 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 13:09:23,771 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 13:09:23,771 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:09:23,771 - App.views.main_window - ERROR - 初始化失败: 无法连接到后端服务器
+Traceback (most recent call last):
+  File "D:\project stdf\PyQT5\PyQT5\App\views\main_window.py", line 62, in run
+    raise Exception("无法连接到后端服务器")
+Exception: 无法连接到后端服务器

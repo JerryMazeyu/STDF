@@ -1,0 +1,90 @@
+2025-06-03 14:12:01,364 - __main__ - INFO - 正在启动主窗口...
+2025-06-03 14:12:01,706 - __main__ - INFO - 应用程序启动完成
+2025-06-03 14:12:05,815 - App.views.main_window - ERROR - 初始化失败: 无法连接到后端服务器
+Traceback (most recent call last):
+  File "d:\project stdf\PyQT5\PyQT5\App\views\main_window.py", line 40, in run
+    raise Exception("无法连接到后端服务器")
+Exception: 无法连接到后端服务器
+2025-06-03 14:18:02,405 - __main__ - INFO - 正在启动主窗口...
+2025-06-03 14:18:02,725 - __main__ - INFO - 应用程序启动完成
+2025-06-03 14:18:06,816 - App.views.main_window - ERROR - 初始化失败: 无法连接到后端服务器
+Traceback (most recent call last):
+  File "d:\project stdf\PyQT5\PyQT5\App\views\main_window.py", line 40, in run
+    raise Exception("无法连接到后端服务器")
+Exception: 无法连接到后端服务器
+2025-06-04 11:29:23,217 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 11:29:23,616 - __main__ - INFO - 应用程序启动完成
+2025-06-04 11:29:27,734 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 11:29:32,825 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 11:29:37,925 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 11:29:37,925 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 11:29:37,926 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:10:22,603 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:10:22,928 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:10:24,996 - App.views.main_window - INFO - 成功连接到服务器，PID: 12352
+2025-06-04 13:10:27,038 - App.views.main_window - INFO - CPU使用率: 6.8%
+2025-06-04 13:10:29,091 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-04 13:10:31,180 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 13:10:31,182 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 13:10:31,450 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 13:42:25,786 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:42:26,143 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:42:30,258 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:42:35,380 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:42:40,527 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 13:42:40,528 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 13:42:40,528 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:42:46,655 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:42:51,738 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:43:03,704 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:43:04,031 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:43:08,136 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:43:13,245 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 13:43:18,334 - App.utils.api_client - WARNING - 连接错误 (尝试 3/3): /api/monitor/pid
+2025-06-04 13:43:18,334 - App.utils.api_client - ERROR - 请求失败 /api/monitor/pid: 无法连接到服务器
+2025-06-04 13:43:18,334 - App.views.main_window - WARNING - 服务器返回错误: 无法连接到服务器
+2025-06-04 13:43:24,440 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 13:43:53,744 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:43:54,099 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:43:56,176 - App.views.main_window - INFO - 成功连接到服务器，PID: 9060
+2025-06-04 13:43:58,250 - App.views.main_window - INFO - CPU使用率: 7.4%
+2025-06-04 13:44:00,323 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-04 13:44:02,394 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 13:44:02,396 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 13:44:02,568 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 13:52:15,841 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 13:52:16,163 - __main__ - INFO - 应用程序启动完成
+2025-06-04 13:52:18,245 - App.views.main_window - INFO - 成功连接到服务器，PID: 9060
+2025-06-04 13:52:20,298 - App.views.main_window - INFO - CPU使用率: 20.1%
+2025-06-04 13:52:22,337 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-04 13:52:24,389 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 13:52:24,390 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 13:52:24,554 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 14:19:30,511 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 14:19:30,836 - __main__ - INFO - 应用程序启动完成
+2025-06-04 14:19:32,905 - App.views.main_window - INFO - 成功连接到服务器，PID: 9060
+2025-06-04 14:19:34,945 - App.views.main_window - INFO - CPU使用率: 11.3%
+2025-06-04 14:19:37,000 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-04 14:19:39,076 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 14:19:39,077 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 14:19:39,242 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 14:54:56,988 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 14:54:57,334 - __main__ - INFO - 应用程序启动完成
+2025-06-04 14:54:59,418 - App.views.main_window - INFO - 成功连接到服务器，PID: 9060
+2025-06-04 14:55:01,497 - App.views.main_window - INFO - CPU使用率: 9.4%
+2025-06-04 14:55:03,564 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
+2025-06-04 14:55:05,630 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 14:55:05,631 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 14:55:05,798 - App.views.main_window - INFO - 标签页初始化完成
+2025-06-04 15:04:39,847 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 15:04:40,187 - __main__ - INFO - 应用程序启动完成
+2025-06-04 15:04:44,305 - App.utils.api_client - WARNING - 连接错误 (尝试 1/3): /api/monitor/pid
+2025-06-04 15:04:49,422 - App.utils.api_client - WARNING - 连接错误 (尝试 2/3): /api/monitor/pid
+2025-06-04 15:05:19,148 - __main__ - INFO - 正在启动主窗口...
+2025-06-04 15:05:19,500 - __main__ - INFO - 应用程序启动完成
+2025-06-04 15:05:21,580 - App.views.main_window - INFO - 成功连接到服务器，PID: 5452
+2025-06-04 15:05:23,633 - App.views.main_window - INFO - CPU使用率: 6.2%
+2025-06-04 15:05:25,704 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_allocated': 0}
+2025-06-04 15:05:27,750 - App.views.main_window - INFO - 找到 0 个图像文件
+2025-06-04 15:05:27,751 - App.views.main_window - INFO - 正在初始化标签页...
+2025-06-04 15:05:27,912 - App.views.main_window - INFO - 标签页初始化完成
