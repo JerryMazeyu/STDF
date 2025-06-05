@@ -1,8 +1,0 @@
-2025-06-03 14:22:00,774 - __main__ - INFO - 正在启动主窗口...
-2025-06-03 14:22:01,111 - __main__ - INFO - 应用程序启动完成
-2025-06-03 14:22:03,168 - App.views.main_window - INFO - 成功连接到服务器，PID: 23512
-2025-06-03 14:22:05,231 - App.views.main_window - INFO - CPU使用率: 5.1%
-2025-06-03 14:22:07,298 - App.views.main_window - INFO - GPU状态: {'gpu_percent': 0, 'memory_used': 0}
-2025-06-03 14:22:09,360 - App.views.main_window - INFO - 找到 0 个图像文件
-2025-06-03 14:22:09,361 - App.views.main_window - INFO - 正在初始化标签页...
-2025-06-03 14:22:09,528 - App.views.main_window - INFO - 标签页初始化完成
